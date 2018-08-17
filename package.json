@@ -1,0 +1,21 @@
+{
+  "name": "node_ban_bot",
+  "version": "0.0.1",
+  "description": "A mediawiki bot for blocking a blacklist of users and deleting their contributions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mediawiki",
+    "bot",
+    "block",
+    "delete-contributions"
+  ],
+  "author": "David Bromoiras",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "mwbot": "^1.0.10",
+    "winston": "^3.0.0"
+  }
+}
