@@ -15,7 +15,7 @@
   "author": "David Bromoiras",
   "license": "GPL-3.0",
   "dependencies": {
-    "mwbot": "^1.0.10",
+    "mwbot": "^2.3.3",
     "winston": "^3.0.0"
   }
 }
